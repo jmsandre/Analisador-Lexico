@@ -1,6 +1,6 @@
 # Compilador
 
-###Autor: João Marcos Sampaio André
+### Autor: **João Marcos Sampaio André**
 Licensa: GPL3
 
 Trabalho Prático da disciplina de compiladores
