@@ -1,4 +1,4 @@
-# Compilador
+# Analisador Léxico
 
 ### Autor: **João Marcos Sampaio André**
 Licensa: GPL3
